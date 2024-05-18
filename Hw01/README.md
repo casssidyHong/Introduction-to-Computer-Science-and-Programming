@@ -20,14 +20,14 @@
    6. 调整图片大小及标签大小，让图片中的人名标签不会相互重叠影响判读
    7. 生成词云
 ### 代码链接：
-   1. 主架构 <http://blablablahoyo.github.io/01.py>
+   1. 主架构 <https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/01.py#L1>
    2. 主架构中引用到的Data资料
-      1. [world_cointry.jason](http://blablablahoyo.github.io/data/world_country.json "link")
-      2. [毛语录.txt](http://blablablahoyo.github.io/data/毛语录.txt "link")
+      1. [world_cointry.jason](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/data/world_country.json "link")
+      2. [毛语录.txt](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/data/毛语录.txt "link")
    3. 生成图片
-      1. [毛语录-人物词频.csv](http://blablablahoyo.github.io/毛语录-人物词频.csv "link")
-      2. [毛语录-人物词频.png](http://blablablahoyo.github.io/毛语录-人物词频.png "link")
-      3. [毛语录-人物词云.html](http://blablablahoyo.github.io/毛语录-人物词云.html "link")
+      1. [毛语录-人物词频.csv](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/毛语录-人物词频.csv "link")
+      2. [毛语录-人物词频.png](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/毛语录-人物词频.png "link")
+      3. [毛语录-人物词云.html](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/毛语录-人物词云.html "link")
 
 ## 题目二
 ### 题目要求：
@@ -40,8 +40,8 @@
 ### 代码链接：
    1. 主架构 <http://blablablahoyo.github.io/02.py>
    2. 主架构中引用到的Data资料
-      1. [world_cointry.jason](http://blablablahoyo.github.io/data/world_country.json "link")
-      2. [台湾学生出国流向.csv](http://blablablahoyo.github.io/data/台湾学生出国流向.csv "link")
+      1. [world_cointry.jason](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/data/world_country.json "link")
+      2. [台湾学生出国流向.csv](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/data/台湾学生出国流向.csv "link")
    3. 生成图片
       1. [清华北大招生人数.html](http://blablablahoyo.github.io/清华北大招生人数.html "link")
       2. [台湾学生出国留学数据地图.html](http://blablablahoyo.github.io/台湾学生出国留学数据地图_geo.html "link")
@@ -56,7 +56,7 @@
    1. 比较去年每个月的花销 (NTD)
    2. 分为饮食、交通、总和
 ### 代码链接：
-   1. 主架构 <http://blablablahoyo.github.io/03.py>
+   1. 主架构 <https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/03.py>
    2. 生成圖片
-      [2022年每月花销.html](http://blablablahoyo.github.io/2022年每月花销.html "link")
+      [2022年每月花销.html](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/2022年每月花销.html "link")
 

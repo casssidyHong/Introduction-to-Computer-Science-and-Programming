@@ -8,7 +8,7 @@
 ### 作业说明：
 面对问题时习惯以Google进行搜索，所以决定选择制作Google Search的小视窗，自己也重新将Google标志颜色做了一些更动。
 ### 代码链接：
-   [Google搜寻](http://blablablahoyo.github.io/search_engine.html "link")
+   [Google搜寻](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw02/search_engine.html "link")
 
 ## 题目二
 ### 题目要求：
@@ -16,7 +16,7 @@
 ### 作业说明：
 来到北京后一直很想去“大观园”因此在制作人物关系图时选择分析红楼梦。
 ### 代码链接：
-   [Web_红楼梦](http://blablablahoyo.github.io/web.html "link")
+   [Web_红楼梦](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw02/关系图-红楼梦人物.html "link")
 
 ## 遇到问题&解决办法
     1. 点开html时，跳出的网页页面是乱码
