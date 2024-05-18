@@ -38,13 +38,13 @@
    3. 世界地图 -> 台湾人喜欢到哪里去读书
    4. 找出前20个国家 标记数量
 ### 代码链接：
-   1. 主架构 <http://blablablahoyo.github.io/02.py>
+   1. 主架构 <https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/02.py>
    2. 主架构中引用到的Data资料
       1. [world_cointry.jason](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/data/world_country.json "link")
       2. [台湾学生出国流向.csv](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/data/台湾学生出国流向.csv "link")
    3. 生成图片
-      1. [清华北大招生人数.html](http://blablablahoyo.github.io/清华北大招生人数.html "link")
-      2. [台湾学生出国留学数据地图.html](http://blablablahoyo.github.io/台湾学生出国留学数据地图_geo.html "link")
+      1. [清华北大招生人数.html](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/data/清华北大招生人数.html "link")
+      2. [台湾学生出国留学数据地图.html](https://github.com/casssidyHong/Introduction-to-Computer-Science-and-Programming/blob/main/Hw01/data/台湾学生出国留学数据地图_geo.html "link")
    4. 参考资料：
       1. <https://shirley.tw/2021y-study-abroad/>
       2. <https://new.qq.com/rain/a/20210719A0EBFG00>
